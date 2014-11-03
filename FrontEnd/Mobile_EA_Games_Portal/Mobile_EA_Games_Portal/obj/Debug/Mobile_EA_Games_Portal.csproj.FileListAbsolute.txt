@@ -1,0 +1,13 @@
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\bin\Debug\Mobile_EA_Games_Portal.dll
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\bin\Debug\Mobile_EA_Games_Portal.pdb
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\bin\Debug\Mobile_EA_Games_Portal.dll.mdb
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\bin\Debug\Mobile_EA_Games_Portal.Mobile_EA_Games_Portal.apk
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\bin\Debug\Mobile_EA_Games_Portal.Mobile_EA_Games_Portal-Signed.apk
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\Mobile_EA_Games_Portal.dll
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\Mobile_EA_Games_Portal.pdb
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\android\bin\Mobile_EA_Games_Portal.Mobile_EA_Games_Portal.apk
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\layout\main.xml
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\values\strings.xml
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\drawable\icon.png
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\R.cs.flag
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\uploadflags.txt
