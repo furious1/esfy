@@ -47,6 +47,21 @@ namespace Mobile_EA_Games_Portal
 			// aapt resource value: 0x7f020000
 			public const int Icon = 2130837504;
 			
+			// aapt resource value: 0x7f020001
+			public const int image1 = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int image2 = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int image3 = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int image4 = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int image5 = 2130837509;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -61,7 +76,19 @@ namespace Mobile_EA_Games_Portal
 		{
 			
 			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
+			public const int imageView = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int linearLayout1 = 2131034113;
+			
+			// aapt resource value: 0x7f050004
+			public const int next = 2131034116;
+			
+			// aapt resource value: 0x7f050002
+			public const int prev = 2131034114;
+			
+			// aapt resource value: 0x7f050003
+			public const int text = 2131034115;
 			
 			static Id()
 			{

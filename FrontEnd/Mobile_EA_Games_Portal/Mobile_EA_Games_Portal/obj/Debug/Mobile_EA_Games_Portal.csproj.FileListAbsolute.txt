@@ -11,3 +11,8 @@ C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\M
 C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\drawable\icon.png
 C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\R.cs.flag
 C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\uploadflags.txt
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\drawable\image1.jpg
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\drawable\image2.jpg
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\drawable\image3.jpg
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\drawable\image4.jpg
+C:\Users\Konstantin\Documents\GitHub\esfy\esfy\FrontEnd\Mobile_EA_Games_Portal\Mobile_EA_Games_Portal\obj\Debug\res\drawable\image5.jpg

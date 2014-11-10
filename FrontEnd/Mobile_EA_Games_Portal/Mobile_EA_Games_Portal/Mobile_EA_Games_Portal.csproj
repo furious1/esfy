@@ -60,6 +60,11 @@
     <AndroidResource Include="Resources\layout\Main.axml" />
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\drawable\Icon.png" />
+    <AndroidResource Include="Resources\drawable\image1.jpg" />
+    <AndroidResource Include="Resources\drawable\image2.jpg" />
+    <AndroidResource Include="Resources\drawable\image3.jpg" />
+    <AndroidResource Include="Resources\drawable\image4.jpg" />
+    <AndroidResource Include="Resources\drawable\image5.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
 </Project>

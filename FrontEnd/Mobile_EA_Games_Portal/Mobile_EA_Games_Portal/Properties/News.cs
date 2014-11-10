@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Mobile_EA_Games_Portal
 {
@@ -10,12 +11,14 @@ namespace Mobile_EA_Games_Portal
 		private List<string> Videos { get; set;}
 		private DateTime Date { get; set; }
 		private int Views { get; set; }
+		private bool IsChampionsheepRelated { get; set; }
 
-		public News (string Title, string Content, DateTime Date )
+		public News (string Title, string Content, DateTime Date,bool IsChampionsheepRelated)
 		{
 			this.Title = Title;
 			this.Content = Content;
 			this.Date = Date;
+			this.IsChampionsheepRelated = IsChampionsheepRelated;
 			Images = new List<string> ();
 			Videos = new List<string> ();
 		}
@@ -29,7 +32,7 @@ namespace Mobile_EA_Games_Portal
 		{
 			if (!string.IsNullOrWhiteSpace (imagePath) && Images!=null) 
 			{
-				Images.add (imagePath);
+				Images.Add (imagePath);
 			}
 		}
 
@@ -38,7 +41,7 @@ namespace Mobile_EA_Games_Portal
 		{
 			if (!string.IsNullOrWhiteSpace (videoPath) && Videos!=null) 
 			{
-				Videos.add (videoPath);
+				Videos.Add (videoPath);
 			}
 		}
 	}

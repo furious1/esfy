@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Mobile_EA_Games_Portal
 {
@@ -22,7 +23,7 @@ namespace Mobile_EA_Games_Portal
 			this.Email = Email;
 			this.Name = Name;
 			this.Nickname = NickName;
-			RecentlyViewedNews = new List<RecentlyViewedNews> ();
+			RecentlyViewedNews = new List<News> ();
 		}
 
 		public void UpdateAvatar(string AvatarPath)

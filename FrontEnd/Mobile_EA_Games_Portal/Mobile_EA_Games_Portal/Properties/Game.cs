@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Mobile_EA_Games_Portal
 {
@@ -12,7 +13,7 @@ namespace Mobile_EA_Games_Portal
 
 		public Game (string Title)
 		{
-			Followers = new List<Followers> ();
+			Followers = new List<Users> ();
 			News = new List<News> ();
 			Images = new List<string> ();
 			Videos = new List<string> ();

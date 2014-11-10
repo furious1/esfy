@@ -1,0 +1,1 @@
+Mobile_EA_Games_Portal.MainActivity;mobile_ea_games_portal.MainActivity

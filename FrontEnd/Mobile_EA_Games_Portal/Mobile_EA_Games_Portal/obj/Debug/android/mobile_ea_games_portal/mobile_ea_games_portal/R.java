@@ -12,9 +12,18 @@ public final class R {
     }
     public static final class drawable {
         public static final int icon=0x7f020000;
+        public static final int image1=0x7f020001;
+        public static final int image2=0x7f020002;
+        public static final int image3=0x7f020003;
+        public static final int image4=0x7f020004;
+        public static final int image5=0x7f020005;
     }
     public static final class id {
-        public static final int myButton=0x7f050000;
+        public static final int imageView=0x7f050000;
+        public static final int linearLayout1=0x7f050001;
+        public static final int next=0x7f050004;
+        public static final int prev=0x7f050002;
+        public static final int text=0x7f050003;
     }
     public static final class layout {
         public static final int main=0x7f030000;
